@@ -3,7 +3,7 @@
 
 # CV
 
-CV basada en template encontrado [SharedLatex][1]
+CV basada en template LateX encontrado [SharedLatex][1]
 
 ## Configuración
 
@@ -13,4 +13,3 @@ Se requiere un equipo con Ubuntu 12.04 o mayor y que tenga instalado *TeX Live 2
 
 ### Docker
 
- 
