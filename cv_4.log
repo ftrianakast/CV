@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.9.1)  1 SEP 2014 21:25
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.9.1)  1 SEP 2014 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -156,10 +156,10 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 32--32
  []
 
 Missing character: There is no í in font cmr10!
-Missing character: There is no ó in font cmr10!
 [1
 
 ]
+Missing character: There is no ó in font cmr10!
 Missing character: There is no ó in font cmr10!
 Missing character: There is no í in font cmbx10!
  [2] (./cv_4.aux
@@ -169,10 +169,10 @@ LaTeX Info: Redefining \% on input line 6.
 Here is how much of TeX's memory you used:
  1596 strings out of 493918
  20738 string characters out of 6150564
- 91539 words of memory out of 5000000
+ 90539 words of memory out of 5000000
  4952 multiletter control sequences out of 15000+600000
  7639 words of font info for 27 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 27i,7n,26p,338b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,7n,26p,338b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv_4.pdf (2 pages).
