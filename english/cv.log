@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.1.7)  19 JAN 2016 14:12
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.1.7)  19 JAN 2016 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -225,7 +225,7 @@ tly
 )
 \Hy@SectionHShift=\skip45
 )
-No file cv.aux.
+(./cv.aux)
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -244,6 +244,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -291,12 +292,10 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
+
+(./cv.out) (./cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 13.
@@ -330,9 +329,9 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 181.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 8343 strings out of 495637
- 117004 string characters out of 6187763
- 183175 words of memory out of 5000000
+ 8349 strings out of 495637
+ 117046 string characters out of 6187763
+ 183296 words of memory out of 5000000
  11547 multiletter control sequences out of 15000+600000
  8167 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
